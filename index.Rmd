@@ -3,3 +3,7 @@ title: "My Website"
 ---
 
 Hello, Website!
+
+# hola amigos 
+
+# mi pagina
